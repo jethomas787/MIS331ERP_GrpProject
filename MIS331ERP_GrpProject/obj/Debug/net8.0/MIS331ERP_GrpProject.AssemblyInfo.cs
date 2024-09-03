@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIS331ERP_GrpProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc992a01a8fb0f672c41d589d032c23d04a598f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIS331ERP_GrpProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIS331ERP_GrpProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
