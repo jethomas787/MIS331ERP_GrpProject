@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/panzer/Documents/Study/Tech BPM/MIS331ERP_GrpProject/MIS331ERP_GrpProject/MIS331ERP_GrpProject.csproj",
+      "projectUniqueName": "/Users/panzer/RiderProjects/MIS331ERP_GrpProject/MIS331ERP_GrpProject/MIS331ERP_GrpProject.csproj",
       "projectName": "MIS331ERP_GrpProject",
-      "projectPath": "/Users/panzer/Documents/Study/Tech BPM/MIS331ERP_GrpProject/MIS331ERP_GrpProject/MIS331ERP_GrpProject.csproj",
+      "projectPath": "/Users/panzer/RiderProjects/MIS331ERP_GrpProject/MIS331ERP_GrpProject/MIS331ERP_GrpProject.csproj",
       "packagesPath": "/Users/panzer/.nuget/packages/",
-      "outputPath": "/Users/panzer/Documents/Study/Tech BPM/MIS331ERP_GrpProject/MIS331ERP_GrpProject/obj/",
+      "outputPath": "/Users/panzer/RiderProjects/MIS331ERP_GrpProject/MIS331ERP_GrpProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/panzer/.nuget/NuGet/NuGet.Config"
